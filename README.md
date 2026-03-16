@@ -49,6 +49,6 @@ To identify market leaders, I extracted the top-performing brands based on consu
 
 ### 🛠 Tech Stack
 
-* **Language:** Python / SQL
+* **Language:** SQL
 * **Database Management System:** DuckDB 
 * **Logic:** Window Functions, JSON Parsing, Data Aggregation
