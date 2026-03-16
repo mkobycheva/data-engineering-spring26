@@ -1,6 +1,6 @@
 # 🚀 AI240 | Data Engineering
 
-## Assignment 1: Large-Scale E-commerce Analysis | JSONs parsing & window functions application in DuckDB
+## Assignment 1: INDIA E-COMMERCE TRENDS ANALYSIS | JSONs parsing & window functions application in DuckDB
 
 This project focuses on processing and extracting insights from the **Flipkart Fashion Dataset**, a massive collection of 5.7M+ records from India’s leading e-commerce platform.
 
